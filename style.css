@@ -1,0 +1,40 @@
+.container {
+  min-height:100vh
+}
+nav {
+  background-color: orange;
+  min-height:100px;
+  padding:10vh 0;
+}
+.logo {
+  text-align: center;
+}
+.banner {
+  background-color: red;
+  min-height: 400px;
+  background-image: url('https://i.ytimg.com/vi/d-84UJpYFRM/maxresdefault.jpg');
+  background-size:cover;
+}
+.blurb {
+  border:1px black solid;
+  min-height: 200px;
+  text-align: center;
+  font-size:40px;
+}
+.img {
+  background-color: green;
+  min-height: 200px;
+  text-align: center;
+}
+.single-image {
+  max-width: 100%;
+
+}
+.info {
+  background-color: yellow;
+  min-height: 200px
+}
+footer {
+  background-color: pink;
+  min-height: 100px
+}
